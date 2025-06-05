@@ -1,6 +1,6 @@
 # Ana's Data Analyst Portfolio
 
-Welcome! 👋 I'm Ana, a Computer Science graduate from UTRGV passionate about turning data into actionable insights, especially in education, equity, and healthcare.
+Welcome! 👋 I'm Ana, a recent Computer Science graduate from UTRGV passionate about turning data into actionable insights, especially in education, equity, and healthcare.
 
 This portfolio showcases projects and notebooks involving:
 
@@ -24,4 +24,4 @@ This portfolio showcases projects and notebooks involving:
 
 ## 📄 Resume
 
-- [Download Resume (PDF)](./resume/Ana_Resume_DataAnalyst.pdf)
+- [Download Resume (PDF)](./resume/Ana Garcia Resume.pdf)
