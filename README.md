@@ -24,4 +24,4 @@ This portfolio showcases projects and notebooks involving:
 
 ## 📄 Resume
 
-- [Download Resume (PDF)](./resume/Ana Garcia Resume.pdf)
+- [Download Resume (PDF)](./resume/Ana_Garcia_Resume.pdf)
