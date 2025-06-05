@@ -1,30 +1,27 @@
 # Ana's Data Analyst Portfolio
 
-Welcome! 👋 I'm Ana, a recent UTRGV graduate focused on turning healthcare and operations data into actionable insights.
+Welcome! 👋 I'm Ana, a Computer Science graduate from UTRGV passionate about turning data into actionable insights, especially in education, equity, and healthcare.
 
-This portfolio includes projects using:
+This portfolio showcases projects and notebooks involving:
 
-- 📊 **Excel** (dashboards, formulas, pivot tables)
-- 🧠 **SQL** (queries, joins, aggregations)
-- 🐍 **Python** (Pandas, data cleaning, visualizations)
-- 📈 **Tableau** (interactive dashboards)
+- 📊 **Excel** – Dashboards, formulas, and pivot tables for data cleaning and reporting  
+- 🧠 **SQL** – Writing queries, joins, and aggregations to explore and summarize large datasets  
+- 🐍 **Python** – Data cleaning, EDA, and visualization with Pandas, Seaborn, and Matplotlib  
+- 📈 **Tableau** – Interactive dashboards for clear and compelling data storytelling  
 
-## 🔍 Featured Project: Hospital Supply Chain Analysis
+---
 
-Analyzed hospital supply order trends to identify cost-saving opportunities and stock inefficiencies.
+## 🌍 Featured Project: WIP
 
-- 🧼 Cleaned messy data in Python and Excel
-- 📊 Created interactive Tableau dashboard
-- 📁 [See project files](./hospital-supply-analysis)
+---
 
-## 🛠️ Practice & Notebooks
+## 🛠️ Practice & Learning Notebooks
 
-- [SQL Queries](./sql-practice)
-- [Python Cleaning & Charts](./python-notebooks)
+- 🐍 [Python: Cleaning & EDA Practice](./data_analytics_learning/cleaning_basics_EDA.ipynb)  
+- 🧠 [SQL Queries & Aggregation Practice](./sql-practice)
 
 ---
 
 ## 📄 Resume
 
-- [Download Resume](./resume/Ana_Resume_DataAnalyst.pdf)
-
+- [Download Resume (PDF)](./resume/Ana_Resume_DataAnalyst.pdf)
