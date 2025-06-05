@@ -26,5 +26,5 @@ Analyzed hospital supply order trends to identify cost-saving opportunities and 
 
 ## 📄 Resume
 
-- [Download Resume](./resume/Ana_Resume_DataAnalyst.pdf)
+- [Download Resume](./resume/Ana Garcia Resume.pdf)
 
